@@ -14,6 +14,6 @@ Feel free to use this mod in modpacks.
 
 EDIT
 -------------
-This for is intended for personal use, all it does is add in the fabric origins compatibility code. Probably horribly XD as im no coder. If this works out ill release it on the github page.
+This fork is intended for personal use, all it does is add in the fabric origins compatibility code. Probably horribly XD as im no coder. If this works out ill release it on the github page.
 
 Do dont ask for bug fixes, i aint got no skills for that, and outside of getting the compatibility to work the mod aint my problem.
